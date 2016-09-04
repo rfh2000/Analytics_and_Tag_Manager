@@ -2,4 +2,14 @@
 <resources>
     <string name="ga_trackingId">UA-83655507-1</string>
     <string name="autoActivityTracking">true</string>
+
+    <!--Screen names for easier viewing in GA-->
+    <screenName name="com.example.android.dinnerapp.Dinner">Dinner</screenName>
+    <screenName name="com.example.android.dinnerapp.MainActivity">Main</screenName>
+    <screenName name="com.example.android.dinnerapp.OrderDinnerActivity">Order Dinner</screenName>
+    <screenName name="com.example.android.dinnerapp.RemoveMealActivity">Remove Meal</screenName>
+    <screenName name="com.example.android.dinnerapp.ShowDinnerActivity">Show Dinner</screenName>
+    <screenName name="com.example.android.dinnerapp.ShowRecipeActivity">Show Recipe</screenName>
+    <screenName name="com.example.android.dinnerapp.UseInfoBoxFragment">Info Box</screenName>
+
 </resources>
